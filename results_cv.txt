@@ -1,0 +1,11 @@
+Results 5-fold cross-validation
+
+                  TP    FP    TN    FN
+Fold 1          80.0  12.0  88.0  23.0
+Fold 2          91.0   2.0  98.0  11.0
+Fold 3          87.0   1.0  99.0  15.0
+Fold 4          86.0   8.0  92.0  16.0
+Fold 5          81.0  13.0  86.0  21.0
+Average on all  85.0   7.2  92.6  17.2
+
+Average accuracy: 87.92%
